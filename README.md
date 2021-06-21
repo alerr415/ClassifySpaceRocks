@@ -12,4 +12,4 @@ The "Data" folder contains the images I use as dataset. 80% of it is used for tr
  
 Hopefully it can be easily expanded to identify more than 2 kinds of rocks.
 
-Credits to Microsoft Learn.
+This was a part of a Microsoft Learn learning path.
