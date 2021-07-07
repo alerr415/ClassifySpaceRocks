@@ -2,7 +2,7 @@
  
 ## Written in Python with Jupyter Notebooks in Visual Studio Code.
  
-You will need Python AI libraries like matplotlib, numpy, PyTorch. You will need Anaconda as well. I used an Anaconda enviroment.
+You will need Python AI libraries like matplotlib, numpy, PyTorch. You will need Anaconda as well. I used an Anaconda environment.
  
 With this project I analyze and classify specifically two types of rocks that can be found in the surface of the Moon, highland and basalt.
  
